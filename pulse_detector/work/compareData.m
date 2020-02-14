@@ -1,3 +1,6 @@
+%
+% Copyright 2019 The MathWorks, Inc.
+%
 function err_vec = compareData(reference,actual,figure_number,textstring)
 
 % Vector input only

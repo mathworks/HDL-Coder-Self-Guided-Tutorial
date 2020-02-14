@@ -1,3 +1,6 @@
+%
+% Copyright 2019 The MathWorks, Inc.
+%
 function demoMode(varargin)
 % demoMode or demoMode('on') adds the folder containing the solution models
 % to MATLAB path. The folder is not added if any of the models is already
